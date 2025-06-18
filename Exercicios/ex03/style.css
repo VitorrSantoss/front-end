@@ -1,0 +1,22 @@
+body{
+  background-color:#8B8989;
+}
+
+h2{
+  text-align: center;
+  margin-top: 100px;
+  color: whitesmoke;
+}
+
+.card-group{
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  
+  
+}
+
+.card{
+  background-color: rgb(255, 255, 255);
+  margin-right: 40px;
+}
