@@ -1,0 +1,35 @@
+
+
+body{
+  margin-top: 140px;
+}
+
+.col1{
+  background-color: rgb(80, 162, 218);
+  color: #ffffff;
+  text-align: center; 
+  line-height: 100px; 
+  font-size: x-large;
+}
+
+.col2{
+  background-color: rgb(230, 176, 29);
+  width: 300px;
+  text-align: left;
+}
+
+.col3{
+  background-color: rgb(191, 199, 191);
+  width: 1016px;
+  text-align: left;
+}
+.col4{
+  background-color: rgb(53, 75, 134);
+  height: 70px;
+  color: white;
+  text-align: center; 
+  line-height: 70px; 
+}
+.margin{
+  margin-top: 10px;
+}
